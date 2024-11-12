@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafae\\minimal-api\\minimal-api.csproj",
+      "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\workspace\\minimal-api\\minimal-api.csproj",
       "projectName": "minimal-api",
-      "projectPath": "C:\\Users\\rafae\\minimal-api\\minimal-api.csproj",
+      "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\workspace\\minimal-api\\minimal-api.csproj",
       "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafae\\minimal-api\\obj\\",
+      "outputPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\workspace\\minimal-api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config"
